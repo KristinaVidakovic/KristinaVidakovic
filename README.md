@@ -1,18 +1,13 @@
-<h1 align="center" style="font-size:45px">
+<img align="right" src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="220">
 
-<img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50" />
-Hello
-<img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50" />
-</h1>
-
-<img align="right" src="https://media.giphy.com/media/w9jrNDMFTVhsyMEYDL/giphy.gif" width="220" style="margin:10px 30px"> 
+<img align="center" src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="140">
 
 ## 👩‍💻 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-kvidakovic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvidakovic/)](https://www.linkedin.com/in/kvidakovic/)
 [![Gmail Badge](https://img.shields.io/badge/-kristina.vidakovic403@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kristina.vidakovic403@gmail.com)](mailto:kristina.vidakovic403@gmail.com)
 [![Skype Badge](https://img.shields.io/badge/-KristinaVidakovic-blue?style=flat&logo=Skype&logoColor=white&link=https://join.skype.com/invite/zUBuHuBckL25)](https://join.skype.com/invite/zUBuHuBckL25)
-
+  
 ## ⚙️  Technologies
 
 ###### Backend
@@ -54,8 +49,6 @@ Hello
 ![Windows](https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=037bfc)
 
 ###### Other
-
-<img align="right" src="https://media.giphy.com/media/ENxx2erqOHckyqyDBK/giphy.gif" width="200" style="margin:0px 30px">
 
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=Swagger)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=flat&logo=Confluence&logoColor=037bfc)
