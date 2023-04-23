@@ -5,7 +5,7 @@ Hello
 <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="50" />
 </h1>
 
-<img align="right" src="https://media.giphy.com/media/w9jrNDMFTVhsyMEYDL/giphy.gif" width="200" style="margin:0px 30px"> 
+<img align="right" src="https://media.giphy.com/media/w9jrNDMFTVhsyMEYDL/giphy.gif" width="220" style="margin:10px 30px"> 
 
 ## 👩‍💻 Contact me
 
@@ -55,12 +55,12 @@ Hello
 
 ###### Other
 
+<img align="right" src="https://media.giphy.com/media/ENxx2erqOHckyqyDBK/giphy.gif" width="200" style="margin:0px 30px">
+
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=flat&logo=Swagger)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=flat&logo=Confluence&logoColor=037bfc)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=Jira&logoColor=037bfc)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=Postman)
-
-<img align="right" src="https://media.giphy.com/media/ENxx2erqOHckyqyDBK/giphy.gif" width="180" style="margin:0px 30px">
 
 ## 💻️ Curently learning
 
